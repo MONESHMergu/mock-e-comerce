@@ -1,6 +1,7 @@
 #  E-Commerce Platform
 
 > A full-stack e-commerce application with MongoDB persistence, Fake Store API integration, and comprehensive error handling.
+monesh mergu
 
 ## 🚀 Features
 
