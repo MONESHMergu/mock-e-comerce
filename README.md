@@ -3,7 +3,6 @@
 > A full-stack e-commerce application with MongoDB persistence, Fake Store API integration, and comprehensive error handling.
 monesh mergu
 
-## 🚀 Features
 
 - ✅ **Product Catalog** - Real products from Fake Store API
 - ✅ **Shopping Cart** - Add, update, and remove items
